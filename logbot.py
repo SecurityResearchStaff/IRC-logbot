@@ -2,7 +2,6 @@ import string
 import socket
 import sys
 import os
-import random
 server = "127.0.0.1"      
 channel = "#BOT"
 botnick = "DAVID" 
